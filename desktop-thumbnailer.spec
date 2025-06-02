@@ -7,7 +7,7 @@ Release:        1%{?dist}
 Summary:        Linux .desktop thumbnailer
 
 License:        GPL-3.0-or-later
-URL:            https://example.com
+URL:            https://github.com/sachesi/desktop-thumbnailer
 Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  rust cargo
